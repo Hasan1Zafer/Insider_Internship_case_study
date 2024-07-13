@@ -1,3 +1,5 @@
+## THİS FİLE FOR LOCALLY TESTİNG MODEL
+
 import joblib
 
 
